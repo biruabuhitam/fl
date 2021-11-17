@@ -1,5 +1,4 @@
 ## BIRUABUHITAM
-img src="https://user-images.githubusercontent.com/47154182/142199730-3352bd8a-d4f2-4419-a9fa-af39d9b6d15d.jpg"
 You can use the [editor on GitHub](https://github.com/biruabuhitam/biruabuhitam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
