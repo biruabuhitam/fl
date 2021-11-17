@@ -2,7 +2,7 @@
 ![insiprasi dari ronaldo](https://user-images.githubusercontent.com/47154182/142201843-91e2d4cd-1c0c-4bff-b39c-805b723170b0.jpg)
 
 > Cristiano Ronaldo
-pemain Manchester United Bisakah Ronaldo membawa MU juara Liga Iggris [https://menuju2030.blogspot.com/](url)
+pemain Manchester United Bisakah Ronaldo membawa MU juara Liga Iggris [](https://menuju2030.blogspot.com)
 
 You can use the [editor on GitHub](https://github.com/biruabuhitam/biruabuhitam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
